@@ -1,0 +1,1699 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<courses>
+  <course>
+    <subject>CPI</subject>
+    <code>200</code>
+    <title>Math Foundation of Informatics</title>
+    <courseID>15814</courseID>
+    <instructor>Hansford</instructor>
+    <location>Tempe - BYENG209</location>
+  </course>
+  <course>
+    <subject>CPI</subject>
+    <code>321</code>
+    <title>Fundamentals of Game Art(LEL)</title>
+    <courseID>12499</courseID>
+    <instructor>Kobayashi</instructor>
+    <location>Tempe - BYENGM1-11</location>
+  </course>
+  <course>
+    <subject>CPI</subject>
+    <code>350</code>
+    <title>Eval of Informatics Systems</title>
+    <courseID>13767</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - BYENG209</location>
+  </course>
+  <course>
+    <subject>CPI</subject>
+    <code>394</code>
+    <title>Topic:Game Design Fundamentals</title>
+    <courseID>32666</courseID>
+    <instructor>Selgrad</instructor>
+    <location>Tempe - BYAC110</location>
+  </course>
+  <course>
+    <subject>CPI</subject>
+    <code>411</code>
+    <title>Graphics for Games</title>
+    <courseID>16884</courseID>
+    <instructor>Kobayashi</instructor>
+    <location>Tempe - BYENGM1-11</location>
+  </course>
+  <course>
+    <subject>CPI</subject>
+    <code>441</code>
+    <title>Gaming Capstone(LEL)</title>
+    <courseID>12440</courseID>
+    <instructor>Kobayashi</instructor>
+    <location>Tempe - BYENGM1-11</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>100</code>
+    <title>Prin of Programming with C++</title>
+    <courseID>13552</courseID>
+    <instructor>Burger</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>100</code>
+    <title>Laboratory</title>
+    <courseID>15172</courseID>
+    <instructor>Burger</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>100</code>
+    <title>Laboratory</title>
+    <courseID>20790</courseID>
+    <instructor>Burger</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>100</code>
+    <title>Laboratory</title>
+    <courseID>20791</courseID>
+    <instructor>Burger</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>100</code>
+    <title>Laboratory</title>
+    <courseID>20792</courseID>
+    <instructor>Burger</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>20771</courseID>
+    <instructor>Das</instructor>
+    <location>Poly - PRLTA202</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>20772</courseID>
+    <instructor>Das</instructor>
+    <location>Poly - PRLTA202</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Principles of Programming</title>
+    <courseID>11178</courseID>
+    <instructor>Miller</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Principles of Programming</title>
+    <courseID>15817</courseID>
+    <instructor>Miller</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Principles of Programming</title>
+    <courseID>29948</courseID>
+    <instructor>Miller</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>11196</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>15186</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>16886</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - ECGG324</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>18590</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>20793</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - ECGG324</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>25281</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>25284</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - COORL1-50</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>25286</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - COORL1-38</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>29949</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - LIBL60</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>29950</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - LIBL60</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>29951</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - LIBL60</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Laboratory</title>
+    <courseID>29952</courseID>
+    <instructor>Miller</instructor>
+    <location>Tempe - LIBL60</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>110</code>
+    <title>Principles of Programming</title>
+    <courseID>20770</courseID>
+    <instructor>Suthar</instructor>
+    <location>Poly - PRLTA202</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>120</code>
+    <title>Digital Design Fundamentals</title>
+    <courseID>28566</courseID>
+    <instructor>Millman</instructor>
+    <location>Tempe - SCOB210</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>120</code>
+    <title>Laboratory</title>
+    <courseID>28567</courseID>
+    <instructor>Millman</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>12605</courseID>
+    <instructor>Feng</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>15818</courseID>
+    <instructor>Feng</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>11206</courseID>
+    <instructor>Hsiao</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>33115</courseID>
+    <instructor>Hsiao</instructor>
+    <location>Tempe - SHESC340</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>15466</courseID>
+    <instructor>Osburn</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>20773</courseID>
+    <instructor>Osburn</instructor>
+    <location>Poly - AGBC154</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>11272</courseID>
+    <instructor>Tadayon-Navabi</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>11282</courseID>
+    <instructor>Tadayon-Navabi</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>19341</courseID>
+    <instructor>Tadayon-Navabi</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>33116</courseID>
+    <instructor>Tadayon-Navabi</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>205</code>
+    <title>Object-Oriented Program &amp; Data</title>
+    <courseID>33117</courseID>
+    <instructor>Tadayon-Navabi</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>220</code>
+    <title>Programming for Computer Engr</title>
+    <courseID>11243</courseID>
+    <instructor>Farazi</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>230</code>
+    <title>Computer Org/Assemb Lang Prog</title>
+    <courseID>20774</courseID>
+    <instructor>Burger</instructor>
+    <location>Poly - AGBC115</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>230</code>
+    <title>Computer Org/Assemb Lang Prog</title>
+    <courseID>33122</courseID>
+    <instructor>Nakamura</instructor>
+    <location>Tempe - DISCVRY350</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>230</code>
+    <title>Computer Org/Assemb Lang Prog</title>
+    <courseID>29751</courseID>
+    <instructor>Vrudhula</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>240</code>
+    <title>Intro to Programming Languages</title>
+    <courseID>13536</courseID>
+    <instructor>Chen</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>240</code>
+    <title>Intro to Programming Languages</title>
+    <courseID>26611</courseID>
+    <instructor>Chen</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>240</code>
+    <title>Intro to Programming Languages</title>
+    <courseID>33391</courseID>
+    <instructor>Chen</instructor>
+    <location>Tempe - COOR120</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>240</code>
+    <title>Intro to Programming Languages</title>
+    <courseID>33392</courseID>
+    <instructor>Chen</instructor>
+    <location>Tempe - BYAC270</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>259</code>
+    <title>Logic in Computer Science</title>
+    <courseID>19998</courseID>
+    <instructor>Osburn</instructor>
+    <location>Tempe - COOR199</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>259</code>
+    <title>Recitation</title>
+    <courseID>20019</courseID>
+    <instructor>Osburn</instructor>
+    <location>Tempe - BYAC240</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>259</code>
+    <title>Recitation</title>
+    <courseID>20020</courseID>
+    <instructor>Osburn</instructor>
+    <location>Tempe - BYAC240</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>301</code>
+    <title>Computing Ethics</title>
+    <courseID>11189</courseID>
+    <instructor>Hansford</instructor>
+    <location>iCourse</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Data Structures and Algorithms</title>
+    <courseID>21622</courseID>
+    <instructor>Syrotiuk</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Recitation</title>
+    <courseID>21623</courseID>
+    <instructor>Syrotiuk</instructor>
+    <location>Tempe - BYAC260</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Recitation</title>
+    <courseID>21624</courseID>
+    <instructor>Syrotiuk</instructor>
+    <location>Tempe - BYAC260</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Recitation</title>
+    <courseID>21625</courseID>
+    <instructor>Syrotiuk</instructor>
+    <location>Tempe - BYAC260</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Recitation</title>
+    <courseID>29763</courseID>
+    <instructor>Syrotiuk</instructor>
+    <location>Tempe - BYAC260</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Data Structures and Algorithms</title>
+    <courseID>11638</courseID>
+    <instructor>Xue</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Recitation</title>
+    <courseID>18669</courseID>
+    <instructor>Xue</instructor>
+    <location>Tempe - BYAC260</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>310</code>
+    <title>Recitation</title>
+    <courseID>18674</courseID>
+    <instructor>Xue</instructor>
+    <location>Tempe - BYAC260</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>320</code>
+    <title>Design/Syn Digital Hardware</title>
+    <courseID>11219</courseID>
+    <instructor>Ren</instructor>
+    <location>Tempe - CAVC359</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>320</code>
+    <title>Recitation</title>
+    <courseID>20109</courseID>
+    <instructor>Ren</instructor>
+    <location>Tempe - BYENG210</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>320</code>
+    <title>Recitation</title>
+    <courseID>20110</courseID>
+    <instructor>Ren</instructor>
+    <location>Tempe - BYENG210</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>325</code>
+    <title>Embedded Microprocessor System</title>
+    <courseID>17929</courseID>
+    <instructor>Meuth</instructor>
+    <location>Tempe - CAVC359</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>325</code>
+    <title>Recitation</title>
+    <courseID>18676</courseID>
+    <instructor>Meuth</instructor>
+    <location>Tempe - BYENG210</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>330</code>
+    <title>Operating Systems</title>
+    <courseID>18480</courseID>
+    <instructor>Zhao</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>330</code>
+    <title>Recitation</title>
+    <courseID>19940</courseID>
+    <instructor>Zhao</instructor>
+    <location>Tempe - BYAC270</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>335</code>
+    <title>Princ of Mobile App Dev(LEL)</title>
+    <courseID>29789</courseID>
+    <instructor>Chakati</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>340</code>
+    <title>Principles of Programming Lang</title>
+    <courseID>29768</courseID>
+    <instructor>Banerjee</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>340</code>
+    <title>Recitation</title>
+    <courseID>29771</courseID>
+    <instructor>Banerjee</instructor>
+    <location>Tempe - COOR186</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>340</code>
+    <title>Principles of Programming Lang</title>
+    <courseID>13883</courseID>
+    <instructor>Fainekos</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>340</code>
+    <title>Recitation</title>
+    <courseID>18681</courseID>
+    <instructor>Fainekos</instructor>
+    <location>Tempe - BYAC150</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>340</code>
+    <title>Recitation</title>
+    <courseID>18682</courseID>
+    <instructor>Fainekos</instructor>
+    <location>Tempe - BYAC150</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>340</code>
+    <title>Recitation</title>
+    <courseID>18683</courseID>
+    <instructor>Fainekos</instructor>
+    <location>Tempe - COOR186</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>355</code>
+    <title>Intro Theoretical Computer Sci</title>
+    <courseID>14169</courseID>
+    <instructor>Colbourn</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>355</code>
+    <title>Recitation</title>
+    <courseID>18684</courseID>
+    <instructor>Colbourn</instructor>
+    <location>Tempe - BYAC190</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>355</code>
+    <title>Recitation</title>
+    <courseID>18685</courseID>
+    <instructor>Colbourn</instructor>
+    <location>Tempe - BYAC190</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>355</code>
+    <title>Recitation</title>
+    <courseID>18686</courseID>
+    <instructor>Colbourn</instructor>
+    <location>Tempe - BYAC190</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>355</code>
+    <title>Recitation</title>
+    <courseID>18690</courseID>
+    <instructor>Colbourn</instructor>
+    <location>Tempe - BYAC240</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>365</code>
+    <title>Information Assurance</title>
+    <courseID>19897</courseID>
+    <instructor>Bao</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>365</code>
+    <title>Information Assurance</title>
+    <courseID>30175</courseID>
+    <instructor>Doupe</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>408</code>
+    <title>Multimedia Information Systems</title>
+    <courseID>35239</courseID>
+    <instructor>Caviedes</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>420</code>
+    <title>Computer Architecture I</title>
+    <courseID>11213</courseID>
+    <instructor>Shrivastava</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>423</code>
+    <title>Systems Capstone Project I</title>
+    <courseID>12844</courseID>
+    <instructor>Meuth</instructor>
+    <location>Tempe - BYAC110</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>424</code>
+    <title>Systems Capstone Project II</title>
+    <courseID>11158</courseID>
+    <instructor>Meuth</instructor>
+    <location>Tempe - BYAC110</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>434</code>
+    <title>Computer Networks</title>
+    <courseID>11169</courseID>
+    <instructor>Syrotiuk</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>438</code>
+    <title>Embedded Systems Programming</title>
+    <courseID>32920</courseID>
+    <instructor>Lee</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>445</code>
+    <title>Distributed Software Developmt</title>
+    <courseID>11266</courseID>
+    <instructor>Balasooriya</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>446</code>
+    <title>Software Integration and Engr</title>
+    <courseID>13841</courseID>
+    <instructor>Chen</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>450</code>
+    <title>Design&amp;Analysis of Algorithms</title>
+    <courseID>19898</courseID>
+    <instructor>Basu</instructor>
+    <location>Tempe - CAVC359</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>460</code>
+    <title>Software Analysis and Design</title>
+    <courseID>11639</courseID>
+    <instructor>Gonzalez Sanchez</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>463</code>
+    <title>Intro Human Computer Interactn</title>
+    <courseID>13874</courseID>
+    <instructor>Atkinson</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>464</code>
+    <title>Software QA and Testing</title>
+    <courseID>20414</courseID>
+    <instructor>Balasooriya</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>469</code>
+    <title>Computer and Network Forensics</title>
+    <courseID>14181</courseID>
+    <instructor>BAEK</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>470</code>
+    <title>Computer Graphics</title>
+    <courseID>19306</courseID>
+    <instructor>Hansford</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>471</code>
+    <title>Intro Artificial Intelligence</title>
+    <courseID>12881</courseID>
+    <instructor>Hanni</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>475</code>
+    <title>Found of Machine Learning</title>
+    <courseID>34714</courseID>
+    <instructor>Wang</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>484</code>
+    <title>Topic:Department(PRA)</title>
+    <courseID>12884</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>484</code>
+    <title>Topic:Department(PRA)</title>
+    <courseID>15729</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>485</code>
+    <title>Computer Sci Capstone Proj I</title>
+    <courseID>19043</courseID>
+    <instructor>Amperayani</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>485</code>
+    <title>Computer Sci Capstone Proj I</title>
+    <courseID>19044</courseID>
+    <instructor>Amperayani</instructor>
+    <location>Tempe - BYAC270</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>485</code>
+    <title>Computer Sci Capstone Proj I</title>
+    <courseID>19045</courseID>
+    <instructor>Chavez-Echeagaray</instructor>
+    <location>Tempe - BYAC270</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>485</code>
+    <title>Computer Sci Capstone Proj I</title>
+    <courseID>12891</courseID>
+    <instructor>Chavez-Echeagaray</instructor>
+    <location>Tempe - BYAC270</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>485</code>
+    <title>Computer Sci Capstone Proj I</title>
+    <courseID>21405</courseID>
+    <instructor>Chavez-Echeagaray</instructor>
+    <location>Tempe - BYAC270</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>509</code>
+    <title>Digital Video Processing</title>
+    <courseID>35240</courseID>
+    <instructor>Caviedes</instructor>
+    <location>Tempe - BYENG210</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>510</code>
+    <title>Database Mgmt Sys Implementn</title>
+    <courseID>12843</courseID>
+    <instructor>Candan</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>511</code>
+    <title>Data Processing at Scale</title>
+    <courseID>28983</courseID>
+    <instructor>Meduri</instructor>
+    <location>Tempe - PSH152</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>512</code>
+    <title>Distributed Database Systems</title>
+    <courseID>19901</courseID>
+    <instructor>Chowdhury</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>520</code>
+    <title>Computer Architecture II</title>
+    <courseID>19908</courseID>
+    <instructor>Shrivastava</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>522</code>
+    <title>Real-Time Embedded Systems</title>
+    <courseID>34669</courseID>
+    <instructor>Lee</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>535</code>
+    <title>Mobile Computing</title>
+    <courseID>18375</courseID>
+    <instructor>Banerjee</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>539</code>
+    <title>Applied Cryptography</title>
+    <courseID>27404</courseID>
+    <instructor>Bazzi</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>543</code>
+    <title>Info Assurance &amp; Security</title>
+    <courseID>24312</courseID>
+    <instructor>Yau</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>545</code>
+    <title>Software Security</title>
+    <courseID>17920</courseID>
+    <instructor>Yau</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>546</code>
+    <title>Cloud Computing</title>
+    <courseID>30711</courseID>
+    <instructor>Zhao</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>548</code>
+    <title>Adv Computer Network Security</title>
+    <courseID>33028</courseID>
+    <instructor>Huang</instructor>
+    <location>Tempe - DISCVRY350</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>551</code>
+    <title>Foundations of Algorithms</title>
+    <courseID>21651</courseID>
+    <instructor>Choudhuri</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>551</code>
+    <title>Foundations of Algorithms</title>
+    <courseID>30799</courseID>
+    <instructor>Colbourn</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>564</code>
+    <title>Software Design</title>
+    <courseID>24210</courseID>
+    <instructor>Gonzalez Sanchez</instructor>
+    <location>Tempe - CAVC359</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>566</code>
+    <title>Software Proj/Process/Qual Mgt</title>
+    <courseID>11278</courseID>
+    <instructor>Collofello</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>566</code>
+    <title>Software Proj/Process/Qual Mgt</title>
+    <courseID>35959</courseID>
+    <instructor>Collofello</instructor>
+    <location>Tempe - COOR199</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>573</code>
+    <title>Semantic Web Mining</title>
+    <courseID>24231</courseID>
+    <instructor>Davulcu</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>574</code>
+    <title>Planning/Learning Methods AI</title>
+    <courseID>34692</courseID>
+    <instructor>Dadvar</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>575</code>
+    <title>Statistical Machine Learning</title>
+    <courseID>18194</courseID>
+    <instructor>Thakur</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>578</code>
+    <title>Data Visualization</title>
+    <courseID>26614</courseID>
+    <instructor>Ghayekhloo</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>591</code>
+    <title>Topic:Vision &amp; Language Frontier Topics Seminar</title>
+    <courseID>34308</courseID>
+    <instructor>Baral</instructor>
+    <location>Tempe - BYAC110</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>591</code>
+    <title>Topic:Image Analytics &amp; Informatics</title>
+    <courseID>24612</courseID>
+    <instructor>Liang</instructor>
+    <location>Tempe - BYENGM1-09</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>595</code>
+    <title>Continuing Registration(RSC)</title>
+    <courseID>13944</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Advances in Robot Learning</title>
+    <courseID>25146</courseID>
+    <instructor>Ben Amor</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Engineering Blockchain Applications</title>
+    <courseID>25145</courseID>
+    <instructor>Chakati</instructor>
+    <location>Tempe - BYAC150</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Computational Social Choice</title>
+    <courseID>23498</courseID>
+    <instructor>Escobedo</instructor>
+    <location>Tempe - BYENG209</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Quantum Computation</title>
+    <courseID>30662</courseID>
+    <instructor>Jiang</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Perception in Robotics</title>
+    <courseID>24659</courseID>
+    <instructor>Luo</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Applied Vulnerability Research</title>
+    <courseID>25150</courseID>
+    <instructor>Shoshitaishvili</instructor>
+    <location>Tempe - BYENGM1-09</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Secure Computation for Machine Learning</title>
+    <courseID>34295</courseID>
+    <instructor>Trieu</instructor>
+    <location>Tempe - CDN68</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic:Data-Intensive Systems for Machine Learning</title>
+    <courseID>25151</courseID>
+    <instructor>Zou</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic: Software Integration and Engineering</title>
+    <courseID>19557</courseID>
+    <instructor>Chen</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>598</code>
+    <title>Topic: Foundations of Social Media Mining</title>
+    <courseID>36577</courseID>
+    <instructor>Chen</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>599</code>
+    <title>Thesis(RSC)</title>
+    <courseID>11744</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>599</code>
+    <title>Thesis(RSC)</title>
+    <courseID>14725</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>210</code>
+    <title>Intro Industrial Engineering</title>
+    <courseID>15631</courseID>
+    <instructor>Yauch</instructor>
+    <location>Tempe - PSF101</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>220</code>
+    <title>Business/Industrial Engr</title>
+    <courseID>11298</courseID>
+    <instructor>Kucukozyigit</instructor>
+    <location>Tempe - LIBC10</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>305</code>
+    <title>Information Systems Engr</title>
+    <courseID>13438</courseID>
+    <instructor>Fok</instructor>
+    <location>Tempe - SHESC340</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>320</code>
+    <title>Extreme Excel</title>
+    <courseID>19014</courseID>
+    <instructor>McCarville</instructor>
+    <location>iCourse</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>321</code>
+    <title>Ethics&amp;Technical Communication</title>
+    <courseID>21546</courseID>
+    <instructor>Starkey</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>369</code>
+    <title>Work Analysis and Design</title>
+    <courseID>11162</courseID>
+    <instructor>McCarville</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>369</code>
+    <title>Laboratory</title>
+    <courseID>23892</courseID>
+    <instructor>McCarville</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>376</code>
+    <title>Oper Rsrch Det Tech/Apps</title>
+    <courseID>11184</courseID>
+    <instructor>Sefair</instructor>
+    <location>Tempe - BYAC110</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>380</code>
+    <title>Prob &amp; Stats Engr Prob Solving</title>
+    <courseID>18584</courseID>
+    <instructor>Byeon</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>380</code>
+    <title>Prob &amp; Stats Engr Prob Solving</title>
+    <courseID>32109</courseID>
+    <instructor>Zhou</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>381</code>
+    <title>Lean Six Sigma Methodology</title>
+    <courseID>16381</courseID>
+    <instructor>Jennings</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>385</code>
+    <title>Engr Statistics - Probability</title>
+    <courseID>15090</courseID>
+    <instructor>Chattin</instructor>
+    <location>Tempe - LIBC12</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>431</code>
+    <title>Engineering Administration</title>
+    <courseID>27284</courseID>
+    <instructor>Jennings</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>454</code>
+    <title>Risk Management</title>
+    <courseID>27209</courseID>
+    <instructor>Kucukozyigit</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>456</code>
+    <title>Intro to Systems Engineering</title>
+    <courseID>27290</courseID>
+    <instructor>Kucukozyigit</instructor>
+    <location>Tempe - PSY102</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>458</code>
+    <title>Project Management</title>
+    <courseID>14206</courseID>
+    <instructor>McCarville</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>461</code>
+    <title>Production Control</title>
+    <courseID>11303</courseID>
+    <instructor>Akbari</instructor>
+    <location>Tempe - SCOB152</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>470</code>
+    <title>Stochastic Operations Research</title>
+    <courseID>24243</courseID>
+    <instructor>Loughman</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>474</code>
+    <title>Quality Control</title>
+    <courseID>21471</courseID>
+    <instructor>Iquebal</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>475</code>
+    <title>Simulating Stochastic Systems</title>
+    <courseID>23328</courseID>
+    <instructor>Pedrielli</instructor>
+    <location>Tempe - BYAC210</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>475</code>
+    <title>Laboratory</title>
+    <courseID>23365</courseID>
+    <instructor>Pedrielli</instructor>
+    <location>Tempe - BYENGM1-11</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>477</code>
+    <title>Syst Dyn &amp; Thinking</title>
+    <courseID>15105</courseID>
+    <instructor>Juarez</instructor>
+    <location>Tempe - BYAC150</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>484</code>
+    <title>Internship(PRA)</title>
+    <courseID>28412</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>486</code>
+    <title>Systems Design Capstone II</title>
+    <courseID>27278</courseID>
+    <instructor>Juarez</instructor>
+    <location>Tempe - CAVC351</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>493</code>
+    <title>Honors Thesis(RSC)</title>
+    <courseID>20514</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>493</code>
+    <title>Honors Thesis(RSC)</title>
+    <courseID>29219</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>498</code>
+    <title>Topic:Computational Social Choice</title>
+    <courseID>29852</courseID>
+    <instructor>Escobedo</instructor>
+    <location>Tempe - BYENG209</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>534</code>
+    <title>Supply Chain Modeling&amp;Analysis</title>
+    <courseID>21470</courseID>
+    <instructor>Gel</instructor>
+    <location>Tempe - BDH211</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>556</code>
+    <title>Intro to Systems Engineering</title>
+    <courseID>29843</courseID>
+    <instructor>Kucukozyigit</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>561</code>
+    <title>Production Systems</title>
+    <courseID>13199</courseID>
+    <instructor>Yao</instructor>
+    <location>Tempe - BDH201</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>572</code>
+    <title>Design Engineering Experiments</title>
+    <courseID>11157</courseID>
+    <instructor>Montgomery</instructor>
+    <location>Tempe - LIBC10</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>573</code>
+    <title>Reliability Engineering</title>
+    <courseID>29844</courseID>
+    <instructor>Pan</instructor>
+    <location>Tempe - BYAC190</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>575</code>
+    <title>Appl Stochastic Oper Rsch Mdls</title>
+    <courseID>29845</courseID>
+    <instructor>Pedrielli</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>577</code>
+    <title>Data Sci Sys Decision Analyt</title>
+    <courseID>27891</courseID>
+    <instructor>Yan</instructor>
+    <location>Tempe - BYENG210</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>581</code>
+    <title>Six Sigma Methodology</title>
+    <courseID>13721</courseID>
+    <instructor>Jennings</instructor>
+    <location>Tempe - BYAC110</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>585</code>
+    <title>Six Sigma Capstone(PRA)</title>
+    <courseID>13722</courseID>
+    <instructor>Jennings</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>594</code>
+    <title>Conference and Workshop</title>
+    <courseID>35710</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - BYAC150</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>598</code>
+    <title>Topic:Computational Social Choice</title>
+    <courseID>21977</courseID>
+    <instructor>Escobedo</instructor>
+    <location>Tempe - BYENG209</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>598</code>
+    <title>Topic:Network Optimization and Algorithms</title>
+    <courseID>32252</courseID>
+    <instructor>Mirchandani</instructor>
+    <location>Tempe - BYENG210</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>599</code>
+    <title>Thesis(RSC)</title>
+    <courseID>14719</courseID>
+    <instructor>Atkinson</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>605</code>
+    <title>Foundations of Information Sys</title>
+    <courseID>29853</courseID>
+    <instructor>Yan</instructor>
+    <location>Tempe - BYENGM1-09</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>622</code>
+    <title>Optimization II</title>
+    <courseID>19324</courseID>
+    <instructor>Escobedo</instructor>
+    <location>Tempe - BYENG209</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>700</code>
+    <title>Research Methods</title>
+    <courseID>19337</courseID>
+    <instructor>Ye</instructor>
+    <location>Tempe - BYENGM1-09</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>216</code>
+    <title>Sftware Enterpr:PersProc&amp;Qual(LEL)</title>
+    <courseID>15070</courseID>
+    <instructor>Bansal</instructor>
+    <location>Poly - PRLTA213</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>222</code>
+    <title>Dsgn &amp; Analy: Data Strs &amp; Algo(LEL)</title>
+    <courseID>15068</courseID>
+    <instructor>Acuna</instructor>
+    <location>Poly - PRLTA213</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>232</code>
+    <title>Computer Systems Fundamentals(LEL)</title>
+    <courseID>20035</courseID>
+    <instructor>Heinrichs</instructor>
+    <location>Poly - SANTN339</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>316</code>
+    <title>Software Enterprise: Cnstrct</title>
+    <courseID>18937</courseID>
+    <instructor>Mehlhase</instructor>
+    <location>Poly - AGBC134</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>321</code>
+    <title>Software Systems(LEL)</title>
+    <courseID>19460</courseID>
+    <instructor>Mehlhase</instructor>
+    <location>Poly - AGBC154</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>322</code>
+    <title>Database Management(LEL)</title>
+    <courseID>15069</courseID>
+    <instructor>Heinrichs</instructor>
+    <location>Poly - PRLTA130</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>334</code>
+    <title>Operating Systems&amp;System Prog</title>
+    <courseID>15071</courseID>
+    <instructor>Acuna</instructor>
+    <location>Poly - PRLTA130</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>335</code>
+    <title>Engin Secure Software Systems</title>
+    <courseID>29647</courseID>
+    <instructor>Gary</instructor>
+    <location>Poly - PRLTA201</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>402</code>
+    <title>Computing Capstone II</title>
+    <courseID>15075</courseID>
+    <instructor>Sandy</instructor>
+    <location>Poly - AGBC150</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>416</code>
+    <title>Software Enterprise: Proj&amp;Proc</title>
+    <courseID>18940</courseID>
+    <instructor>Suthar</instructor>
+    <location>Poly - AGBC134</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>423</code>
+    <title>Mobile Systems</title>
+    <courseID>15076</courseID>
+    <instructor>Mudiam</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>463</code>
+    <title>Intro Human Computer Interactn</title>
+    <courseID>35745</courseID>
+    <instructor>Atkinson</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>484</code>
+    <title>Internship(PRA)</title>
+    <courseID>36230</courseID>
+    <instructor>Bansal</instructor>
+    <location>Poly - TBA</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>486</code>
+    <title>Embedded C Programming</title>
+    <courseID>18942</courseID>
+    <instructor>Sandy</instructor>
+    <location>Poly - SANTN122</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>502</code>
+    <title>Languages and Prog Paradigms(LEL)</title>
+    <courseID>14486</courseID>
+    <instructor>Bansal</instructor>
+    <location>ASU Sync Only</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>516</code>
+    <title>Software Agility(LEL)</title>
+    <courseID>14154</courseID>
+    <instructor>Gonzalez Sanchez</instructor>
+    <location>Poly - PICHO150</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>517</code>
+    <title>Software Factory I(LEL)</title>
+    <courseID>22135</courseID>
+    <instructor>Findler</instructor>
+    <location>Poly - AGBC134</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>390</code>
+    <title>Test1</title>
+    <courseID>10001</courseID>
+    <instructor>Bob</instructor>
+    <location>Tempe - BYENG209</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>390</code>
+    <title>Test2</title>
+    <courseID>10002</courseID>
+    <instructor>Mark</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CPI</subject>
+    <code>390</code>
+    <title>Test3</title>
+    <courseID>10003</courseID>
+    <instructor>John</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>CPI</subject>
+    <code>390</code>
+    <title>Test4</title>
+    <courseID>10004</courseID>
+    <instructor>Fill</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>CSE</subject>
+    <code>250</code>
+    <title>Test5</title>
+    <courseID>10005</courseID>
+    <instructor>Silver</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>390</code>
+    <title>Test6</title>
+    <courseID>10006</courseID>
+    <instructor>Fish</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>IEE</subject>
+    <code>390</code>
+    <title>Test7</title>
+    <courseID>10007</courseID>
+    <instructor>Giant</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>390</code>
+    <title>Test8</title>
+    <courseID>10008</courseID>
+    <instructor>Cat</instructor>
+    <location>Internet - Hybrid</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>390</code>
+    <title>Test9</title>
+    <courseID>10009</courseID>
+    <instructor>Large</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+  <course>
+    <subject>SER</subject>
+    <code>390</code>
+    <title>Test10</title>
+    <courseID>10010</courseID>
+    <instructor>Lion</instructor>
+    <location>Tempe - TBA</location>
+  </course>
+</courses>
